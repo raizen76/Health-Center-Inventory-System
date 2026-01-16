@@ -91,7 +91,12 @@ Navigate to `http://localhost:8000` in your web browser.
 
 ## Screenshots
 
-*Coming soon*
+**ADMINISTRATOR**
+<img width="1919" height="909" alt="image" src="https://github.com/user-attachments/assets/dfa1e578-922e-48e0-a384-a206b6749425" />
+<img width="1918" height="909" alt="image" src="https://github.com/user-attachments/assets/7966389b-fde5-48d8-bedd-2e35e9d03fb9" />
+<img width="1911" height="909" alt="image" src="https://github.com/user-attachments/assets/413fba6e-4842-429d-93ef-1da012d27aa2" />
+<img width="1913" height="908" alt="image" src="https://github.com/user-attachments/assets/f30d5023-85dd-4cd5-a1e0-cc8442580718" />
+
 
 ## Future Development
 
