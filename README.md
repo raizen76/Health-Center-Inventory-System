@@ -91,12 +91,27 @@ Navigate to `http://localhost:8000` in your web browser.
 
 ## Screenshots
 
-**ADMINISTRATOR**
+  **ADMINISTRATOR**
 <img width="1919" height="909" alt="image" src="https://github.com/user-attachments/assets/dfa1e578-922e-48e0-a384-a206b6749425" />
 <img width="1918" height="909" alt="image" src="https://github.com/user-attachments/assets/7966389b-fde5-48d8-bedd-2e35e9d03fb9" />
 <img width="1911" height="909" alt="image" src="https://github.com/user-attachments/assets/413fba6e-4842-429d-93ef-1da012d27aa2" />
 <img width="1913" height="908" alt="image" src="https://github.com/user-attachments/assets/f30d5023-85dd-4cd5-a1e0-cc8442580718" />
 
+ **Health Staff**
+<img width="1896" height="911" alt="image" src="https://github.com/user-attachments/assets/736b179d-ebd5-46d5-873a-856f13007fc6" />
+<img width="1919" height="919" alt="image" src="https://github.com/user-attachments/assets/1aabbbe5-d207-4546-87e8-665ffdf71158" />
+<img width="1919" height="915" alt="image" src="https://github.com/user-attachments/assets/e627fa46-f042-4b33-bccb-49aa39f28893" />
+<img width="1918" height="918" alt="image" src="https://github.com/user-attachments/assets/4a542a4a-7d41-434c-b78f-1853a1f40305" />
+<img width="1911" height="917" alt="image" src="https://github.com/user-attachments/assets/cd74ecf1-f462-46e5-b2ef-669ad84ff881" />
+<img width="1919" height="907" alt="image" src="https://github.com/user-attachments/assets/2a4ef2d7-0bf1-4738-9806-b897167c524e" />
+
+**Viewer**
+<img width="1918" height="907" alt="image" src="https://github.com/user-attachments/assets/bf11c39b-82e0-4430-a340-f37906969bd6" />
+<img width="1897" height="907" alt="image" src="https://github.com/user-attachments/assets/bccbd7de-54e9-4b8e-bef0-c8f6eaf67d6a" />
+<img width="1919" height="874" alt="image" src="https://github.com/user-attachments/assets/c895916d-6705-4dde-b95b-978da7174dab" />
+<img width="1635" height="907" alt="image" src="https://github.com/user-attachments/assets/b8b80ba7-5536-404c-aa13-3fb614ba1a3f" />
+<img width="1886" height="908" alt="image" src="https://github.com/user-attachments/assets/0bc0daf9-c474-449b-b306-ae49e3daf8b8" />
+<img width="1886" height="908" alt="image" src="https://github.com/user-attachments/assets/425fb52e-8070-4769-8581-c3abae32b849" />
 
 ## Future Development
 
